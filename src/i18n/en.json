@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "files": "FILES",
+    "contacts": "CONTACTS",
+    "title": "AFRICA INTERNATIONAL SUSTAINABLE & INCLUSIVE BLUE ECONOMY WEEK"
+  },
+  "hero": {
+    "title": "AFRICA INTERNATIONAL SUSTAINABLE & INCLUSIVE BLUE ECONOMY WEEK",
+    "date": "02 - 05 DECEMBER 2025",
+    "location": "DOUALA - CAMEROON",
+    "title1": "UNDER THE HIGHEST SPONSORSHIP OF HIS EXCELLENCY MR. PAUL BIYA,",
+    "title2": "PRESIDENT OF THE REPUBLIC OF CAMEROON",
+    "subtitle1": "UNDER THE TECHNICAL SUPERVISION OF THE MINISTRY OF TRANSPORT"
+  },
+  "theme": "Economic Growth and Structural Support for Import Substitution",
+  "quotes": {
+    "p1": "The government has also continued its efforts to recover and structurally transform our economy through the gradual operationalization of economic zones. [...] All the projects I have just mentioned, and many others, require significant financial resources for their implementation. [...] If we want to achieve the development objectives we have set for ourselves, we must improve governance in all sectors of activity.",
+    "pl": "His Excellency PAUL BIYA,",
+    "pm": "His Excellency Chief Dr. Joseph Dion NGUTE,",
+    "mt": "His Excellency Jean Ernest NGALLE BIBEHE MASSENA,",
+    "pp": "President of Republic of Cameroon",
+    "mtp": "Minister of Transport of Cameroon",
+    "ppm": "Prime Minister of the Republic of Cameroon",
+    "pd": "Yaounde, 31st December 2024",
+    "pdm": "Expert from CONAFE Speech",
+    "p2": "Trade facilitation has become a major economic development issue for states. [...] The challenge for international trade stakeholders lies in facilitating the foreign trade chain by removing barriers to trade, simplifying import, export, and transit procedures and formalities, and streamlining physical operations in the logistics segment of transport. [...] The Head of State consistently recommends continued efforts to facilitate trade and reduce transit times for goods, to increase the competitiveness of our ports.",
+    "p3": "Trade facilitation has become a major economic development issue for states. [...] The challenge for international trade stakeholders lies in facilitating the foreign trade chain by removing barriers to trade, simplifying import, export, and transit procedures and formalities, and streamlining physical operations in the logistics segment of transport. [...] The Head of State consistently recommends continued efforts to facilitate trade and reduce transit times for goods, to increase the competitiveness of our ports."
+  },
+  "about":{
+    "context": "CONTEXT",
+    "goals": "GOALS",
+    "why": "WHY DEVELOP MARITIME IN AFRICA?",
+    "develop": "WHY DEVELOP PORT IN AFRICA?",
+    "present": "THEY WILL BE PRESENT",
+    "interest": "INTEREST",
+    "interest1": "AFMAPEX is a four-day business event featuring conferences, exhibitions, thematic workshops, B2B meetings, training sessions, and exchanges of experiences and best practices. The event will bring together sector professionals, companies, institutions, and experts to discuss innovations, trends, and challenges related to the blue economy, with a particular focus on its maritime and port components.",
+    "context1": "We believe that setting up a Maritime and Port Exhibition dedicated to Africa will enable it to further develop its blue economy, its port infrastructure and all related professions.",
+    "context2": "Africa has immense maritime potential that is still underexploited and with its unique very strong demographic growth, the African maritime and port sectors are called upon to play a major role in the development of the continent."
+  },
+  "footer": {
+    "rights": "© 2025 AFMAPEX. All rights reserved."
+  },
+  "files": {
+    "afmapex_presentation": "AFMAPEX PRESENTATION",
+    "afmapex_program": "AFMAPEX PROGRAM",
+    "sponsoring_options": "SPONSORING OPTIONS",
+    "participation_packages": "PARTICIPATION PACKAGES",
+    "additional_formulas": "ADDITIONAL FORMULAS",
+    "samapoa_presentation": "PRESENTATION DU SAMAPOA",
+    "samapoa_program": "PROGRAMME DU SAMAPOA",
+    "sponsoring_options_fr": "OPTIONS DE SPONSORING",
+    "participation_packages_fr": "PACKAGES DE PARTICIPATION",
+    "additional_formulas_fr": "FORMULES SUPPLEMENTAIRES"
+  },
+  "contact": {
+    "join_us": "Join Us",
+    "africa": "Africa",
+    "international": "International",
+    "mails": "Mails"
+  }
+}

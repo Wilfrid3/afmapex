@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* custom styles */
+body {  -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    @font-face {
+  font-family: 'Amsterdam One';
+  src: url('/fonts/AmsterdamOne.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-amsterdam-one {
+  font-family: 'Amsterdam One', cursive;
+}

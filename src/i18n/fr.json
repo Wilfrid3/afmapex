@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "ACCUEIL",
+    "about": "A PROPOS",
+    "files": "FICHIERS",
+    "contacts": "CONTACTS",
+    "title": "SEMAINE AFRICAINE DE L'ECONOMIE BLEUE DURABLE & INCLUSIVE"
+  },
+  "hero": {
+    "title": "SEMAINE AFRICAINE DE L'ECONOMIE BLEUE DURABLE & INCLUSIVE",
+    "date": "02 - 05 DECEMBRE 2025",
+    "location": "DOUALA - CAMEROUN",
+    "title1": "Sous le haut patronage de Son Excellence Monsieur Paul BIYA,",
+    "title2": "PRESIDENT DE LA REPUBLIQUE DU CAMEROUN",
+    "subtitle1": "Sous la supervision technique du Ministère du Transport"
+  },
+  "theme": "Croissance economique et soutien structurel pour la substitution aux importations",
+  "quotes": {
+    "p1": "Le gouvernement a egalement poursuivi ses efforts pour redresser et transformer structurellement notre economie par l'operationnalisation progressive des zones economiques.",
+    "p2": "La facilitation du commerce est devenue un enjeu majeur de developpement economique pour les stats. Le defi pour les acteurs du commerce international consiste a faciliter la chaine du commerce exterieur en supprimant les barrieres."
+  },
+  "footer": {
+    "rights": "© 2025 AFMAPEX. Tous droits reserves."
+  },
+  "files": {
+    "afmapex_presentation": "AFMAPEX PRESENTATION",
+    "afmapex_program": "AFMAPEX PROGRAM",
+    "sponsoring_options": "SPONSORING OPTIONS",
+    "participation_packages": "PARTICIPATION PACKAGES",
+    "additional_formulas": "ADDITIONAL FORMULAS",
+    "samapoa_presentation": "PRESENTATION DU SAMAPOA",
+    "samapoa_program": "PROGRAMME DU SAMAPOA",
+    "sponsoring_options_fr": "OPTIONS DE SPONSORING",
+    "participation_packages_fr": "PACKAGES DE PARTICIPATION",
+    "additional_formulas_fr": "FORMULES SUPPLEMENTAIRES"
+  },
+  "contact": {
+    "join_us": "Join Us",
+    "africa": "Africa",
+    "international": "International",
+    "mails": "Mails"
+  }
+}
