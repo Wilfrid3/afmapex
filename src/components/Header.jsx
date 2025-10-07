@@ -48,9 +48,9 @@ export default function Header() {
           </div>
         </div>
 
-        <div className="flex items-center space-x-4">
+        {/* <div className="flex items-center space-x-4">
           <LanguageSwitcher />
-        </div>
+        </div> */}
       </div>
     </header>
   )
